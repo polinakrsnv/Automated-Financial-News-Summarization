@@ -1,1 +1,2 @@
 extractive_model/model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+extractive_model/model/*.safetensors filter=lfs diff=lfs merge=lfs -text
